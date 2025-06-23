@@ -1,0 +1,14 @@
+{
+    "total_frames": 170,
+    "train_frames": 118,
+    "val_frames": 25,
+    "test_frames": 27,
+    "train_ratio": 0.7,
+    "val_ratio": 0.15,
+    "test_ratio": 0.15000000000000005,
+    "output_paths": {
+        "train": "/ssd_group_ssd_data/users/chenjunhui/nerf/TensoRF/data/my_object/transforms_train.json",
+        "val": "/ssd_group_ssd_data/users/chenjunhui/nerf/TensoRF/data/my_object/transforms_val.json",
+        "test": "/ssd_group_ssd_data/users/chenjunhui/nerf/TensoRF/data/my_object/transforms_test.json"
+    }
+}
